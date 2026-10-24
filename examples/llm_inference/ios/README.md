@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated.** This fork is no longer maintained. See the [repository README](../../../README.md).
+
 # Setup Instructions
 
 1. Run `pod install`.

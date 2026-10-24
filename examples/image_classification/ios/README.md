@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated.** This fork is no longer maintained. See the [repository README](../../../README.md).
+
 # MediaPipe Tasks Image Classification iOS Demo
 
 ### Overview
